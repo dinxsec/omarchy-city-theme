@@ -2,7 +2,7 @@
 a grey theme of omarchy 
 
 for the config files in the looknfeel config file these are mine for this theme 
-# https://wiki.hyprland.org/Configuring/Variables/#general
+
 general {
     # No gaps between windows or borders
      gaps_in = 5
@@ -13,13 +13,11 @@ general {
     # layout = master
 }
 
-# https://wiki.hyprland.org/Configuring/Variables/#decoration
 decoration {
    #  Use round window corners
      rounding = 14
 }
 
-# https://wiki.hypr.land/Configuring/Dwindle-Layout/
 dwindle {
     # Avoid overly wide single-window layouts on wide screens
     # single_window_aspect_ratio = 1 1
